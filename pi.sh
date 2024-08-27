@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########################################################################
-# Repositorio: BatoceraV40Bios 2024
+# Repositorio: BatoceraV41Bios 2024
 # Por: Raspberry Pi Buenos Aires ("https://sites.google.com/view/raspberrypibuenosaires/)
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
@@ -14,7 +14,7 @@ echo
 echo "Limpiando las bios basura que te descargaste de otro lado o las mismas si se te corto internet"
 echo "Cleaning the garbage bios downloaded from other sites or from this site but if you internet shutdown in the process"
 echo
-RUTA=https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/bios/
+RUTA=https://raw.githubusercontent.com/PIBSAS/BatoceraV41Bios/main/bios/
 RUTA_ARCH="https://archive.org/download/bios_batocera/BatoceraV39Bios/bios/"
 RUTA_B="https://archive.org/download/bios_batocera/"
 echo
