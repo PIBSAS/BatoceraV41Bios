@@ -1,15 +1,15 @@
-<h1 align="center"> Batocera V40 Bios 2024</h1>
+<h1 align="center"> Batocera V41 Bios 2024</h1>
 <p align="center">
-Las Bios Correctas y necesarias para Batocera V40, sin archivos innecesarios.
+Las Bios Correctas y necesarias para Batocera V41, sin archivos innecesarios.
 </p>
 <p align="center">
-The right Bios for Batocera V40 without unnecessary files.
+The right Bios for Batocera V41 without unnecessary files.
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/PIBSAS/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
-<h2 align="center"> Raspberry Pi Bios Batocera V40</h2>
+<h2 align="center"> Raspberry Pi Bios Batocera V41</h2>
 
 ## Easy Install -- Instalación fácil para Raspberry Pi:
 
@@ -18,7 +18,7 @@ The right Bios for Batocera V40 without unnecessary files.
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/pi.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV41Bios/main/pi.sh | bash
 ```
 
 ### Or Login through SSH -- O Nos conectamos por SSH:
@@ -32,10 +32,10 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/pi.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV41Bios/main/pi.sh | bash
 ```
 
-<h2 align="center"> PC Bios Batocera V40 Butterfly</h2>
+<h2 align="center"> PC Bios Batocera V41 Butterfly</h2>
 
 ## Easy Install -- Instalación fácil PC:
 
@@ -50,7 +50,7 @@ Password: `linux`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV40Bios/main/pc.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV41Bios/main/pc.sh | bash
 ```
 ### Enjoy!!! --- A disfrutar!!!
 
